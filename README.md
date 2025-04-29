@@ -11,6 +11,11 @@ Let’s understand what is steganography.
 
 In this we are hiding text inside an image which can be further decoded.
 
+## Requirements
+> Apache NetBeans IDE
+
+
+
 ![Screenshot 2025-04-29 140213](https://github.com/user-attachments/assets/45cc2563-aec5-4a49-94bf-527ebdca0ab9)
 ![Screenshot 2025-04-29 140022](https://github.com/user-attachments/assets/b899766f-6f8f-4bfa-b628-516eec5153a5)
 ![Screenshot 2025-04-29 140233](https://github.com/user-attachments/assets/b1fdc9a1-abcd-4f2e-ae47-12016adf2369)
