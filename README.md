@@ -1,6 +1,16 @@
-It is the technique of hiding the message within the cover medium.
-It is a common technique where the message is embedded by modifying the least significant bits of the cover medium's data.
-![Screenshot 2025-04-29 140213](https://github.com/user-attachments/assets/589e7911-d00f-45c0-b67d-86808495472d)
-![Screenshot 2025-04-29 140022](https://github.com/user-attachments/assets/fea4193a-ed9e-4869-bc61-c3cf206e6511)
-![Screenshot 2025-04-29 140233](https://github.com/user-attachments/assets/6dd03da1-43d3-4729-b4d1-1718563b9e5c)
-![Screenshot 2025-04-29 140247](https://github.com/user-attachments/assets/1b1ffd08-f1d1-4023-b96a-a8de0525e2d7)
+## Steganography
+
+Let’s understand what is steganography, digital images, pixels, and color models.
+
+### What is steganography?
+
+> Steganography is the practice of concealing a file, message, image, or video within another file, message, image, or video.
+
+### What is the advantage of steganography over cryptography?
+> The advantage of steganography over cryptography alone is that the intended secret message does not attract attention to itself as an object of scrutiny. Plainly visible encrypted messages, no matter how unbreakable they are, arouse interest and may in themselves be incriminating in countries in which encryption is illegal.
+
+![Screenshot 2025-04-29 140213](https://github.com/user-attachments/assets/45cc2563-aec5-4a49-94bf-527ebdca0ab9)
+![Screenshot 2025-04-29 140022](https://github.com/user-attachments/assets/b899766f-6f8f-4bfa-b628-516eec5153a5)
+![Screenshot 2025-04-29 140233](https://github.com/user-attachments/assets/b1fdc9a1-abcd-4f2e-ae47-12016adf2369)
+![Screenshot 2025-04-29 140247](https://github.com/user-attachments/assets/51dbd55d-38a4-4564-abe6-8b3354029f01)
+
