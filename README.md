@@ -8,6 +8,7 @@ Let’s understand what is steganography.
 
 ### What is the advantage of steganography over cryptography?
 > The advantage of steganography over cryptography alone is that the intended secret message does not attract attention to itself as an object of scrutiny. Plainly visible encrypted messages, no matter how unbreakable they are, arouse interest and may in themselves be incriminating in countries in which encryption is illegal.
+In this we are hiding text inside an image which can be further decoded.
 
 ![Screenshot 2025-04-29 140213](https://github.com/user-attachments/assets/45cc2563-aec5-4a49-94bf-527ebdca0ab9)
 ![Screenshot 2025-04-29 140022](https://github.com/user-attachments/assets/b899766f-6f8f-4bfa-b628-516eec5153a5)
