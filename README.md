@@ -1,6 +1,6 @@
 ## Steganography
 
-Let’s understand what is steganography, digital images, pixels, and color models.
+Let’s understand what is steganography.
 
 ### What is steganography?
 
